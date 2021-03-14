@@ -17,7 +17,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://behruzmusic.github.io",
+  "homepage": "https://behruzmusic.github.io/main",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
