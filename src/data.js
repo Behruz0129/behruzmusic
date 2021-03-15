@@ -72,6 +72,86 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: 'Home Court',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=11233',
+      artist: 'Blue Wednesday, Shopan',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-300x300.jpg',
+      color: ['#C281A9', '#41488E'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Melancholy',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=11778',
+      artist: 'Makzo',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/11/f78c39b4bb6313ddd0354bef896c591bfb490ff8-1024x1024.jpg',
+      color: ['#B17875', '#0B418B'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'ny90',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9331',
+      artist: 'Ezzy',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/07/e1706dc2363d3911644abfda0e692303f1196127-1024x1024.jpg',
+      color: ['#B15E66', '#4D8A6B'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Hidden Structure',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9913',
+      artist: 'Leavv, Flitz&Suppe',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2021/02/08cbb0848f669e1bd8b5a5152c4b7d20edf1b499-1024x1024.jpg',
+      color: ['#FDC381', '#7E392A'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Bliss',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9248',
+      artist: 'Misha, Jussi Halme',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/09/5bff1a6f1bd0e2168d29b4c841b811598135e457-1024x1024.jpg',
+      color: ['#2E436F', '#E87F85'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Glory Days',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=7981',
+      artist: 'Sitting Duck, Hoffy Beats, Otaam',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/08/63d2d2cdabbc5df023603b5f47b2fb97963cb537-1024x1024.jpg',
+      color: ['#618D86', '#094B3D'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Imagination',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9332',
+      artist: 'Montell Fish',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/07/24bd0da848d9718fd19af104ff5c0b11f914cb25-1024x1024.jpg',
+      color: ['#CE587B', '#8C5373'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Daylight',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9272',
+      artist: 'Aiguille',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg',
+      color: ['#E57793', '#40326F'],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
