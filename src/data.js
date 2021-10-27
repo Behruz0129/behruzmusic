@@ -13,6 +13,16 @@ function chillHop() {
       active: true,
     },
     {
+      name: 'Twrk',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=8921',
+      artist: 'Tesk',
+      cover:
+        'https://i.scdn.co/image/ab67616d0000b273e1d129b30434132abc145b53',
+      color: ['#EDBF83', '#F5D453'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: 'Sleepover',
       audio: 'https://mp3.chillhop.com/serve.php/?mp3=10130',
       artist: 'Nymano, JK the Sage',
