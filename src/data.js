@@ -18,7 +18,17 @@ function chillHop() {
       artist: 'Tesk',
       cover:
         'https://i.scdn.co/image/ab67616d0000b273e1d129b30434132abc145b53',
-      color: ['#EDBF83', '#F5D453'],
+      color: ['#A8A8A8', '#CDAB64'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Perfect Storm',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=23057',
+      artist: 'Aviino',
+      cover:
+        'https://i.scdn.co/image/ab67616d0000b2735ee8016d725358bfac550120',
+      color: ['#516A7D', '#CC6C3F'],
       id: uuidv4(),
       active: false,
     },
